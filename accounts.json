@@ -1,0 +1,36 @@
+{
+    "accounts": [
+      {
+        "name": "王伟",
+        "accno": "18018378",
+        "password": "392766",
+        "kcb":true,
+        "xsb":true,
+        "enabled":true
+      },
+      {
+        "name": "陆珊珊",
+        "accno": "18713256",
+        "password": "458546",
+        "kcb":true,
+        "xsb":true,
+        "enabled":true
+      },
+      {
+        "name": "陆红",
+        "accno": "0180594086",
+        "password": "458546",
+        "kcb":false,
+        "xsb":false,
+        "enabled":true
+      },
+      {
+        "name": "闫苏华",
+        "accno": "0180590909",
+        "password": "458546",
+        "kcb":true,
+        "xsb":false,
+        "enabled":true
+      }
+    ]
+  }
