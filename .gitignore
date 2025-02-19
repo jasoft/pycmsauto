@@ -1,0 +1,6 @@
+__pycache__
+.idea
+accounts.json
+screenshot.png
+.env
+.venv
